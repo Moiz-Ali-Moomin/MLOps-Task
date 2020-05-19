@@ -1,4 +1,4 @@
-# Face recognition with Vgg16 face model(Transfer learning)
+___Face recognition with Vgg16 face model(Transfer learning)___
 
 # Documentation for this Project
 
