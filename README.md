@@ -2,4 +2,4 @@
 
 # Documentation for this Project
 
-https://iiec-mlops-project.blogger.com
+https://iiec-mlops-projects.blogspot.com/
