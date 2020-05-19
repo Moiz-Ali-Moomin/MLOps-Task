@@ -1,4 +1,4 @@
-# MLOps-Task
+# Face recognition with Vgg16 face model(Transfer learning)
 
 # Documentation for this Project
 
