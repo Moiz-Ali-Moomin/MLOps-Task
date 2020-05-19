@@ -1,0 +1,2 @@
+https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset (Download dataset)
+https://drive.google.com/file/d/0B4ChsjFJvew3NkF0dTc1OGxsOFU/view (vgg16 face model h5)
